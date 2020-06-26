@@ -5,7 +5,8 @@ This simulator uses an arduino UNO to sample inputs from accelerator and brake p
 The data is outputted serial and is read by a python script. The script taps into the Vjoy ( virtual joystick ) python api to simulate gamepad input calls.
 <br> 
 The vjoy interface DLL must be in the same folder as the script and Vjoy must be installed.
-This can be further hooked into x360 to emulate Xinput. The polling rate can be specified in x360ce and the sampling rate in the .ino code. Feel free to expand on the existing codebase.
+This can be further hooked into x360 to emulate Xinput. The polling rate can be specified in x360ce and the sampling rate in the .ino code. 
+<br><br>Feel free to expand on the existing codebase.
 
 
 
