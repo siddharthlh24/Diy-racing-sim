@@ -10,4 +10,3 @@ This can be further hooked into x360 to emulate Xinput. The polling rate can be 
 
 I'll put in some pictures to give a rough build idea
 
-<img>https://photos.google.com/photo/AF1QipOpUOXGN6J_3sMT1cALfyePGeCDP9SPazwkDgaE</img>
