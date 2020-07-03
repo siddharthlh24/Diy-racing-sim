@@ -10,14 +10,14 @@ This can be further hooked into x360 to emulate Xinput. The polling rate can be 
 
 I'll put in some pictures to give a rough build idea
 
-**Steering column is connected to encoder with hot glue**
-![](media/rotary_encode.jpg )
+**Steering column is connected to encoder with hot glue**<br>
+![](media/rotary_encode.jpg )<br>
 
-**Foot Pedals View**
-![](media/pedal%20view.jpg )
+**Foot Pedals View**<br>
+![](media/pedal%20view.jpg )<br>
 
-**Potentiometer driving mechanism**
-![](media/trim%20accel.jpg )
+**Potentiometer driving mechanism**<br>
+![](media/trim%20accel.jpg )<br>
 
 **Working video**
-![](media/video.mp4 )
+[![](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](media/video.mp4)
