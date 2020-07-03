@@ -10,3 +10,4 @@ This can be further hooked into x360 to emulate Xinput. The polling rate can be 
 
 I'll put in some pictures to give a rough build idea
 
+![steering column is connected to encoder with hot glue](media/rotar_encode.jpg)
