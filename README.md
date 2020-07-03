@@ -12,9 +12,8 @@ Pyvjoy ( python library for vjoy ) - https://pypi.org/project/pyvjoy/ <br>
 X360CE (just in case your game doesn't like vjoy ) - https://www.x360ce.com/ <br>
 
 
-I'll put in some pictures to give a rough build idea.
-
-
+# Results
+<br>
 **Working video**
 <br> The video is at media/video.mp4 . The input lag is due to the game and my laptop being kinda slow, but the system in itself works all right.
 
