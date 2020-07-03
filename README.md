@@ -8,7 +8,12 @@ The vjoy interface DLL must be in the same folder as the script and Vjoy must be
 This can be further hooked into x360 to emulate Xinput. The polling rate can be specified in x360ce and the sampling rate in the .ino code. 
 <br><br>
 
-I'll put in some pictures to give a rough build idea
+I'll put in some pictures to give a rough build idea.
+
+
+**Working video**
+<br> The video is at media/video.mp4 . The input lag is due to the game and my laptop being kinda slow, but the system in itself works all right.
+
 
 **Steering column is connected to encoder with hot glue**<br>
 ![](media/rotary_encode.jpg )<br>
@@ -18,6 +23,3 @@ I'll put in some pictures to give a rough build idea
 
 **Potentiometer driving mechanism**<br>
 ![](media/trim%20accel.jpg )<br>
-
-**Working video**
-[![](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](media/video.mp4)
