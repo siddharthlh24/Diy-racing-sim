@@ -14,7 +14,7 @@ X360CE (just in case your game doesn't like vjoy ) - https://www.x360ce.com/ <br
 # Hardware
 The hardware requirement will greatly vary depending on how you want to make it but here is what I used:<br>
 1) Two 5k potentiometers for foot pedals<br>
-2) 2cm diameter spings for pedals<br>
+2) 2cm diameter springs for pedals<br>
 3) KY-040 rotary encoder<br>
 4) LEGO for supplementary stuctures<br>
 5) Wood from a 2000 year old oak tree :) <br>
