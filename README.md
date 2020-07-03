@@ -1,4 +1,4 @@
-# Diy-racing-sim
+# Ultra cost saving super basic racing sim
 This super basic simulator uses an arduino UNO to sample inputs from accelerator and brake pedals driven by potentiometers and a rotary encoder for steering.<br>
 The data is outputted serial and is read by a python script. The script taps into the Vjoy ( virtual joystick ) python api to simulate gamepad input calls.
 <br> 
