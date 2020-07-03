@@ -11,6 +11,14 @@ Vjoy - http://vjoystick.sourceforge.net/site/index.php/download-a-install/downlo
 Pyvjoy ( python library for vjoy ) - https://pypi.org/project/pyvjoy/ <br>
 X360CE (just in case your game doesn't like vjoy ) - https://www.x360ce.com/ <br>
 
+# Hardware
+The hardware requirement greatly vary depending on what you want want to make but here is what I used:<br>
+1) Two 5k potentiometers for foot pedals<br>
+2) 2cm diameter spings for pedals<br>
+3) KY-040 rotary encoder<br>
+4) LEGO for supplementary stuctures<br>
+5) Wood from a 2000 year old oak tree :) <br>
+
 
 # Results
 <br>
