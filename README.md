@@ -6,8 +6,12 @@ The data is outputted serial and is read by a python script. The script taps int
 <br> 
 The vjoy interface DLL must be in the same folder as the script and Vjoy must be installed.
 This can be further hooked into x360 to emulate Xinput. The polling rate can be specified in x360ce and the sampling rate in the .ino code. 
-<br><br>Feel free to expand on the existing codebase.
+<br><br>
 
 I'll put in some pictures to give a rough build idea
 
-![steering column is connected to encoder with hot glue](media/rotary_encode.jpg "steering column is connected to encoder with hot glue")
+# Steering column is connected to encoder with hot glue
+![steering column is connected to encoder with hot glue](media/rotary_encode.jpg )
+
+# Steering column is connected to encoder with hot glue
+![steering column is connected to encoder with hot glue](media/rotary_encode.jpg )
