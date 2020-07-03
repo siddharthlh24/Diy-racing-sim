@@ -27,7 +27,8 @@ The hardware requirement will greatly vary depending on how you want to make it 
 <br>
 
 **Working video**
-<br> The video is at media/video.mp4 . The input lag is due to the game and my laptop being kinda slow, but the system in itself works all right.<br><br>
+<br> The video is at **media/video.mp4** . The gif given below is only a representation. The input lag is due to the game and my laptop being kinda slow, but the system in itself works all right.<br>
+![](media/ezgif-3-c4f2743719f2.gif)<br><br>
 
 **Steering column is connected to encoder with hot glue**<br>
 ![](media/rotary_encode.jpg )<br>
