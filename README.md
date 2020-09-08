@@ -6,6 +6,7 @@ The vjoy interface DLL must be in the same folder as the script and Vjoy must be
 This can be further hooked into x360 to emulate Xinput. The polling rate can be specified in x360ce and the sampling rate in the .ino code. <br>
 This project will cost less than INR 500 or about $7 if you already have an Arduino UNO. Add a bit more if you don't.
 <br><br>
+![](media/ezgif-3-c4f2743719f2.gif)<br><br>
 
 
 # Installation requisites
